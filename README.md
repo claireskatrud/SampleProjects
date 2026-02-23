@@ -1,4 +1,5 @@
 **Claire Skatrud Sample Projects:**
+
 **1. World Bank Poverty Prediction Project for Machine Learning Class Fall 2025:**
 This semester-long project was completed for a machine learning class. The deliverable was a 25-page report comparing several different machine learning models and hyperparameters. The jupyter notebook file contains my code for this project. Some cell outputs are not displayed for length.
 
